@@ -1,0 +1,967 @@
+[{
+  "_id": {
+    "$oid": "69e9c755d5de4446f265978b"
+  },
+  "vendorId": 1,
+  "__v": 0,
+  "category": "Street Food",
+  "color": "#ff6b2b",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.476Z"
+  },
+  "cuisine": "Maharashtra",
+  "description": "Pune's most loved vada pav stall. Served with secret green chutney and dry coconut garlic chutney since 1998.",
+  "distance": "0.3 km",
+  "emoji": "🥙",
+  "featured": true,
+  "isOpen": true,
+  "lat": 18.5074,
+  "lng": 73.8077,
+  "location": "Paud Road, Kothrud",
+  "menu": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e2d"
+      }
+    },
+    {
+      "item": "Misal Pav (full)",
+      "price": 70,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e2e"
+      }
+    },
+    {
+      "item": "Batata Bhaji Pav",
+      "price": 25,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e2f"
+      }
+    },
+    {
+      "item": "Dry Garlic Chutney",
+      "price": 5,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e30"
+      }
+    }
+  ],
+  "name": "Raju Bhaiya Vada Pav",
+  "openHours": "7:00 AM – 10:00 PM",
+  "priceRange": "₹",
+  "rating": 4.8,
+  "reviews": 312,
+  "specialty": [
+    "Vada Pav",
+    "Misal Pav",
+    "Batata Vada"
+  ],
+  "tags": [
+    "Must Try",
+    "Iconic"
+  ],
+  "totalOrders": 7,
+  "vendorPhone": "9800100001",
+  "vendorPin": "1001",
+  "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f265978c"
+  },
+  "vendorId": 2,
+  "__v": 0,
+  "category": "Chaat",
+  "color": "#ffd166",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.524Z"
+  },
+  "cuisine": "North Indian",
+  "description": "Legendary chaat stall by Sharma Ji with tangy, spicy, and sweet combinations that keep you coming back.",
+  "distance": "0.7 km",
+  "emoji": "🫙",
+  "featured": true,
+  "isOpen": true,
+  "lat": 18.5052,
+  "lng": 73.8144,
+  "location": "Karve Road, Kothrud",
+  "menu": [
+    {
+      "item": "Pani Puri (6 pcs)",
+      "price": 30,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e36"
+      }
+    },
+    {
+      "item": "Sev Puri",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1599487405445-5bf89ce0e4b8?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e37"
+      }
+    },
+    {
+      "item": "Bhel Puri",
+      "price": 35,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e38"
+      }
+    },
+    {
+      "item": "Dahi Puri",
+      "price": 50,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e39"
+      }
+    }
+  ],
+  "name": "Sharma Ji Chaat Corner",
+  "openHours": "12:00 PM – 9:30 PM",
+  "priceRange": "₹",
+  "rating": 4.6,
+  "reviews": 215,
+  "specialty": [
+    "Pani Puri",
+    "Sev Puri",
+    "Bhel Puri"
+  ],
+  "tags": [
+    "Popular",
+    "Spicy"
+  ],
+  "totalOrders": 1,
+  "vendorPhone": "9800100002",
+  "vendorPin": "1002",
+  "imageUrl": "https://images.unsplash.com/photo-1599487405445-5bf89ce0e4b8?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f265978d"
+  },
+  "vendorId": 3,
+  "__v": 0,
+  "category": "Beverages",
+  "color": "#06d6a0",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.592Z"
+  },
+  "cuisine": "Indian",
+  "description": "The most famous cutting chai stall in Kothrud. Standing customers, hot tea, and city gossip since dawn.",
+  "distance": "0.5 km",
+  "emoji": "☕",
+  "featured": true,
+  "isOpen": true,
+  "lat": 18.511,
+  "lng": 73.8055,
+  "location": "Kothrud Depot, Kothrud",
+  "menu": [
+    {
+      "item": "Cutting Chai",
+      "price": 10,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e40"
+      }
+    },
+    {
+      "item": "Masala Chai",
+      "price": 15,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e41"
+      }
+    },
+    {
+      "item": "Cold Coffee",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e42"
+      }
+    },
+    {
+      "item": "Biscuit (packet)",
+      "price": 10,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e43"
+      }
+    }
+  ],
+  "name": "Chai Pe Charcha",
+  "openHours": "5:30 AM – 11:00 PM",
+  "priceRange": "₹",
+  "rating": 4.9,
+  "reviews": 587,
+  "specialty": [
+    "Cutting Chai",
+    "Masala Chai",
+    "Cold Coffee"
+  ],
+  "tags": [
+    "Best Chai",
+    "24/7 Vibe"
+  ],
+  "totalOrders": 2,
+  "vendorPhone": "9800100003",
+  "vendorPin": "1003",
+  "imageUrl": "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f265978e"
+  },
+  "vendorId": 4,
+  "__v": 0,
+  "category": "Biryani",
+  "color": "#7c5cbf",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.602Z"
+  },
+  "cuisine": "Hyderabadi",
+  "description": "Dum-style biryani cooked in a clay pot, layered with saffron and fresh herbs. Raita included.",
+  "distance": "1.1 km",
+  "emoji": "🍚",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.5031,
+  "lng": 73.812,
+  "location": "Dahanukar Colony, Kothrud",
+  "menu": [
+    {
+      "item": "Chicken Biryani (full)",
+      "price": 180,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1563379926898-05f45c514d13?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e4a"
+      }
+    },
+    {
+      "item": "Mutton Biryani (full)",
+      "price": 250,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e4b"
+      }
+    },
+    {
+      "item": "Veg Biryani (full)",
+      "price": 130,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e4c"
+      }
+    },
+    {
+      "item": "Raita",
+      "price": 20,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c6a54643356ab65e4d"
+      }
+    }
+  ],
+  "name": "Biryani Baaz",
+  "openHours": "11:30 AM – 11:00 PM",
+  "priceRange": "₹₹",
+  "rating": 4.7,
+  "reviews": 430,
+  "specialty": [
+    "Chicken Biryani",
+    "Mutton Biryani",
+    "Veg Biryani"
+  ],
+  "tags": [
+    "Bestseller",
+    "Halal"
+  ],
+  "totalOrders": 1,
+  "vendorPhone": "9800100004",
+  "vendorPin": "1004",
+  "imageUrl": "https://images.unsplash.com/photo-1563379926898-05f45c514d13?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f265978f"
+  },
+  "vendorId": 5,
+  "__v": 0,
+  "category": "Sweets",
+  "color": "#ff3366",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.612Z"
+  },
+  "cuisine": "Rajasthani",
+  "description": "Freshly fried jalebis and hot gulab jamuns. A sweet paradise for those with a sugar craving.",
+  "distance": "1.4 km",
+  "emoji": "🍮",
+  "featured": false,
+  "isOpen": false,
+  "lat": 18.5089,
+  "lng": 73.82,
+  "location": "Anand Nagar, Kothrud",
+  "menu": [
+    {
+      "item": "Jalebi (250g)",
+      "price": 60,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1666190093498-5dc94a32f5a3?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e53"
+      }
+    },
+    {
+      "item": "Gulab Jamun (4 pcs)",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e54"
+      }
+    },
+    {
+      "item": "Kaju Katli (100g)",
+      "price": 120,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e55"
+      }
+    },
+    {
+      "item": "Rasgulla (2 pcs)",
+      "price": 30,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c8a9e9ce?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e56"
+      }
+    }
+  ],
+  "name": "Meetha Mithai",
+  "openHours": "9:00 AM – 8:00 PM",
+  "priceRange": "₹₹",
+  "rating": 4.5,
+  "reviews": 178,
+  "specialty": [
+    "Jalebi",
+    "Gulab Jamun",
+    "Kaju Katli"
+  ],
+  "tags": [
+    "Fresh Daily"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100005",
+  "vendorPin": "1005",
+  "imageUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659790"
+  },
+  "vendorId": 6,
+  "__v": 0,
+  "category": "Street Food",
+  "color": "#ff8c5a",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.623Z"
+  },
+  "cuisine": "South Indian",
+  "description": "Crispy paper-thin dosas with spicy potato filling and chutneys made fresh every morning.",
+  "distance": "0.9 km",
+  "emoji": "🫓",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.4999,
+  "lng": 73.806,
+  "location": "Warje Road, Kothrud",
+  "menu": [
+    {
+      "item": "Plain Dosa",
+      "price": 50,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e5c"
+      }
+    },
+    {
+      "item": "Masala Dosa",
+      "price": 70,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e5d"
+      }
+    },
+    {
+      "item": "Rava Dosa",
+      "price": 75,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e5e"
+      }
+    },
+    {
+      "item": "Uttapam",
+      "price": 65,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e5f"
+      }
+    }
+  ],
+  "name": "Dosa Wale Bhaiya",
+  "openHours": "7:00 AM – 2:00 PM, 5:00 PM – 9:30 PM",
+  "priceRange": "₹",
+  "rating": 4.6,
+  "reviews": 289,
+  "specialty": [
+    "Masala Dosa",
+    "Rava Dosa",
+    "Uttapam"
+  ],
+  "tags": [
+    "Morning Fav",
+    "Crispy"
+  ],
+  "totalOrders": 1,
+  "vendorPhone": "9800100006",
+  "vendorPin": "1006",
+  "imageUrl": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659791"
+  },
+  "vendorId": 7,
+  "__v": 0,
+  "category": "Street Food",
+  "color": "#ff6b2b",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.630Z"
+  },
+  "cuisine": "Maharashtra",
+  "description": "Mumbai-style pav bhaji loaded with butter on a sizzling tawa, with soft buttery pav.",
+  "distance": "1.6 km",
+  "emoji": "🫔",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.5145,
+  "lng": 73.818,
+  "location": "Erandwane, Kothrud",
+  "menu": [
+    {
+      "item": "Pav Bhaji",
+      "price": 80,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e65"
+      }
+    },
+    {
+      "item": "Cheese Pav Bhaji",
+      "price": 100,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e66"
+      }
+    },
+    {
+      "item": "Extra Pav (2 pcs)",
+      "price": 15,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e67"
+      }
+    },
+    {
+      "item": "Butter Pav",
+      "price": 20,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e68"
+      }
+    }
+  ],
+  "name": "Pav Bhaji Express",
+  "openHours": "4:00 PM – 11:30 PM",
+  "priceRange": "₹",
+  "rating": 4.4,
+  "reviews": 196,
+  "specialty": [
+    "Pav Bhaji",
+    "Cheese Pav Bhaji",
+    "Butter Pav"
+  ],
+  "tags": [
+    "Evening Snack"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100007",
+  "vendorPin": "1007",
+  "imageUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659792"
+  },
+  "vendorId": 8,
+  "__v": 0,
+  "category": "Beverages",
+  "color": "#06d6a0",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.635Z"
+  },
+  "cuisine": "Fruits",
+  "description": "Fresh squeezed juices and chilled summer drinks. Best sugarcane juice in Kothrud!",
+  "distance": "2.1 km",
+  "emoji": "🥤",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.5055,
+  "lng": 73.798,
+  "location": "Bavdhan Road, Kothrud",
+  "menu": [
+    {
+      "item": "Sugarcane Juice (large)",
+      "price": 30,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1622597467836-f382490d1655?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e6e"
+      }
+    },
+    {
+      "item": "Fresh Lime Soda",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e6f"
+      }
+    },
+    {
+      "item": "Mango Shake",
+      "price": 60,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e70"
+      }
+    },
+    {
+      "item": "Mixed Fruit Juice",
+      "price": 70,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e71"
+      }
+    }
+  ],
+  "name": "Juice Junction",
+  "openHours": "8:00 AM – 10:00 PM",
+  "priceRange": "₹",
+  "rating": 4.3,
+  "reviews": 143,
+  "specialty": [
+    "Sugarcane Juice",
+    "Fresh Lime Soda",
+    "Mango Shake"
+  ],
+  "tags": [
+    "Refreshing",
+    "Healthy"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100008",
+  "vendorPin": "1008",
+  "imageUrl": "https://images.unsplash.com/photo-1622597467836-f382490d1655?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659793"
+  },
+  "vendorId": 9,
+  "__v": 0,
+  "category": "Snacks",
+  "color": "#ffd166",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.642Z"
+  },
+  "cuisine": "Indian",
+  "description": "Crispy hot pakodas served with green chutney and tamarind sauce. Perfect monsoon snack!",
+  "distance": "0.6 km",
+  "emoji": "🫘",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.512,
+  "lng": 73.8095,
+  "location": "Chandni Chowk, Kothrud",
+  "menu": [
+    {
+      "item": "Onion Pakoda (plate)",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e77"
+      }
+    },
+    {
+      "item": "Bread Pakoda",
+      "price": 25,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e78"
+      }
+    },
+    {
+      "item": "Mirchi Bajji (2 pcs)",
+      "price": 20,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e79"
+      }
+    },
+    {
+      "item": "Paneer Pakoda",
+      "price": 60,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e7a"
+      }
+    }
+  ],
+  "name": "Pakoda Palace",
+  "openHours": "3:00 PM – 9:00 PM",
+  "priceRange": "₹",
+  "rating": 4.5,
+  "reviews": 231,
+  "specialty": [
+    "Onion Pakoda",
+    "Bread Pakoda",
+    "Mirchi Bajji"
+  ],
+  "tags": [
+    "Monsoon Fav",
+    "Crispy"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100009",
+  "vendorPin": "1009",
+  "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659794"
+  },
+  "vendorId": 10,
+  "__v": 0,
+  "category": "Sweets",
+  "color": "#ff3366",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.650Z"
+  },
+  "cuisine": "Desserts",
+  "description": "Rich, creamy, and thick kulfis handmade daily. The falooda is a must-try in summer!",
+  "distance": "0.4 km",
+  "emoji": "🍦",
+  "featured": false,
+  "isOpen": false,
+  "lat": 18.5063,
+  "lng": 73.803,
+  "location": "Paud Road, Kothrud",
+  "menu": [
+    {
+      "item": "Malai Kulfi",
+      "price": 30,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c8a9e9ce?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e80"
+      }
+    },
+    {
+      "item": "Pista Kulfi",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e81"
+      }
+    },
+    {
+      "item": "Kulfi Falooda",
+      "price": 60,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e82"
+      }
+    },
+    {
+      "item": "Rose Falooda",
+      "price": 55,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e83"
+      }
+    }
+  ],
+  "name": "Kulfi Corner",
+  "openHours": "12:00 PM – 9:30 PM",
+  "priceRange": "₹",
+  "rating": 4.7,
+  "reviews": 302,
+  "specialty": [
+    "Malai Kulfi",
+    "Pista Kulfi",
+    "Falooda"
+  ],
+  "tags": [
+    "Summer Fav"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100010",
+  "vendorPin": "1010",
+  "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c8a9e9ce?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659795"
+  },
+  "vendorId": 11,
+  "__v": 0,
+  "category": "Snacks",
+  "color": "#7c5cbf",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.662Z"
+  },
+  "cuisine": "Fusion",
+  "description": "Stuffed Frankies rolled in soft rotis with sauces and veggies. Quick and filling street meal.",
+  "distance": "1.2 km",
+  "emoji": "🌯",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.509,
+  "lng": 73.8155,
+  "location": "Market Yard, Kothrud",
+  "menu": [
+    {
+      "item": "Paneer Frankie",
+      "price": 70,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e89"
+      }
+    },
+    {
+      "item": "Chicken Frankie",
+      "price": 90,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e8a"
+      }
+    },
+    {
+      "item": "Egg Frankie",
+      "price": 60,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e8b"
+      }
+    },
+    {
+      "item": "Aloo Frankie",
+      "price": 50,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e8c"
+      }
+    }
+  ],
+  "name": "Frankie King",
+  "openHours": "11:00 AM – 10:00 PM",
+  "priceRange": "₹",
+  "rating": 4.4,
+  "reviews": 168,
+  "specialty": [
+    "Chicken Frankie",
+    "Paneer Frankie",
+    "Egg Frankie"
+  ],
+  "tags": [
+    "Quick Bite"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100011",
+  "vendorPin": "1011",
+  "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80"
+},
+{
+  "_id": {
+    "$oid": "69e9c755d5de4446f2659796"
+  },
+  "vendorId": 12,
+  "__v": 0,
+  "category": "Snacks",
+  "color": "#ffd166",
+  "createdAt": {
+    "$date": "2026-04-23T07:16:37.684Z"
+  },
+  "cuisine": "Indian",
+  "description": "Freshly roasted corn on a coal fire, rubbed with lemon and masala. Evening walk companion!",
+  "distance": "0.8 km",
+  "emoji": "🌽",
+  "featured": false,
+  "isOpen": true,
+  "lat": 18.5135,
+  "lng": 73.807,
+  "location": "Kothrud Garden, Kothrud",
+  "menu": [
+    {
+      "item": "Plain Roasted Corn",
+      "price": 20,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1625242661157-b82adfc6f2ba?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e92"
+      }
+    },
+    {
+      "item": "Butter Corn",
+      "price": 30,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e93"
+      }
+    },
+    {
+      "item": "Masala Corn",
+      "price": 35,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e94"
+      }
+    },
+    {
+      "item": "Corn Cup",
+      "price": 40,
+      "category": "",
+      "isAvailable": true,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&q=80",
+      "_id": {
+        "$oid": "69f0f8c7a54643356ab65e95"
+      }
+    }
+  ],
+  "name": "Raghu's Corn Stall",
+  "openHours": "4:00 PM – 9:00 PM",
+  "priceRange": "₹",
+  "rating": 4.2,
+  "reviews": 97,
+  "specialty": [
+    "Roasted Corn",
+    "Butter Corn",
+    "Masala Corn"
+  ],
+  "tags": [
+    "Evening Walk"
+  ],
+  "totalOrders": 0,
+  "vendorPhone": "9800100012",
+  "vendorPin": "1012",
+  "imageUrl": "https://images.unsplash.com/photo-1625242661157-b82adfc6f2ba?auto=format&fit=crop&w=800&q=80"
+}]

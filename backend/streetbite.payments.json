@@ -1,0 +1,317 @@
+[{
+  "_id": {
+    "$oid": "69ea447b2cca052e59d62feb"
+  },
+  "paymentId": "PAY-1776960633879",
+  "orderId": "ORD-1776960633667",
+  "userId": "1776697862388",
+  "amount": 20,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN17769606357181045",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "test@upi",
+    "processedAt": {
+      "$date": "2026-04-23T16:10:35.719Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-23T16:10:35.726Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T16:10:35.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea45902cca052e59d63001"
+  },
+  "paymentId": "PAY-1776960910585",
+  "orderId": "ORD-1776960910514",
+  "userId": "69ea451b2cca052e59d62ff2",
+  "amount": 20,
+  "method": "card",
+  "status": "paid",
+  "transactionId": "TXN17769609128245625",
+  "gatewayCode": "00",
+  "details": {
+    "last4": "4242",
+    "cardName": "Test User",
+    "processedAt": {
+      "$date": "2026-04-23T16:15:12.824Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-23T16:15:12.833Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T16:15:12.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea46652cca052e59d63010"
+  },
+  "paymentId": "PAY-1776961125315",
+  "orderId": "ORD-1776961125238",
+  "userId": "69ea451b2cca052e59d62ff2",
+  "amount": 430,
+  "method": "cash",
+  "status": "pending_collection",
+  "transactionId": null,
+  "gatewayCode": null,
+  "details": {
+    "note": "Pay at pickup"
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-23T16:18:45.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T16:18:45.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea48142cca052e59d63030"
+  },
+  "paymentId": "PAY-1776961554691",
+  "orderId": "ORD-1776961554634",
+  "userId": "69ea451b2cca052e59d62ff2",
+  "amount": 185,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN17769615567322736",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "demo@ybl",
+    "processedAt": {
+      "$date": "2026-04-23T16:25:56.732Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-23T16:25:56.737Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T16:25:56.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea57762b5ac3899dfc2c6e"
+  },
+  "paymentId": "PAY-1776965494649",
+  "orderId": "ORD-1776965494579",
+  "userId": "local_1776965448169",
+  "amount": 115,
+  "method": "cash",
+  "status": "pending_collection",
+  "transactionId": null,
+  "gatewayCode": null,
+  "details": {
+    "note": "Pay at pickup"
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-23T17:31:34.655Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T17:31:34.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eb732b0b4422d06ca4787e"
+  },
+  "paymentId": "PAY-1777038121607",
+  "orderId": "ORD-1777038121472",
+  "userId": "local_1777038095657",
+  "amount": 120,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN1777038123189171",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "demo@paytm",
+    "processedAt": {
+      "$date": "2026-04-24T13:42:03.190Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-24T13:42:03.201Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T13:42:03.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eb93770b4422d06ca484e9"
+  },
+  "paymentId": "PAY-1777046389917",
+  "orderId": "ORD-1777046389878",
+  "userId": "local_1777037135542",
+  "amount": 120,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN17770463916754968",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "demo@paytm",
+    "processedAt": {
+      "$date": "2026-04-24T15:59:51.679Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-24T15:59:51.687Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T15:59:51.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ecb000694543673c823022"
+  },
+  "paymentId": "PAY-1777119230206",
+  "orderId": "ORD-1777119230081",
+  "userId": "local_1777119190470",
+  "amount": 185,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN17771192320225570",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "demo@paytm",
+    "processedAt": {
+      "$date": "2026-04-25T12:13:52.022Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-25T12:13:52.034Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-25T12:13:52.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eda20e10900de61f846474"
+  },
+  "paymentId": "PAY-1777181198901",
+  "orderId": "ORD-1777181198629",
+  "userId": "69ed9fe510900de61f846406",
+  "amount": 25,
+  "method": "cash",
+  "status": "pending_collection",
+  "transactionId": null,
+  "gatewayCode": null,
+  "details": {
+    "note": "Pay at pickup"
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-26T05:26:38.904Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:26:38.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eda57a10900de61f8468d2"
+  },
+  "paymentId": "PAY-1777182072029",
+  "orderId": "ORD-1777182071993",
+  "userId": "69eda3ab10900de61f8467bc",
+  "amount": 370,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN17771820743508160",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "demo@okicici",
+    "processedAt": {
+      "$date": "2026-04-26T05:41:14.350Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-26T05:41:14.356Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:41:14.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eda68310900de61f84697d"
+  },
+  "paymentId": "PAY-1777182337402",
+  "orderId": "ORD-1777182337373",
+  "userId": "69eda60710900de61f846971",
+  "amount": 95,
+  "method": "card",
+  "status": "paid",
+  "transactionId": "TXN17771823394048836",
+  "gatewayCode": "00",
+  "details": {
+    "last4": "8623",
+    "cardName": "HDFC",
+    "processedAt": {
+      "$date": "2026-04-26T05:45:39.404Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-04-26T05:45:39.409Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:45:39.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f752c2256bb953ac86a891"
+  },
+  "paymentId": "PAY-1777816256392",
+  "orderId": "ORD-1777816256092",
+  "userId": "69f75158256bb953ac86a885",
+  "amount": 50,
+  "method": "upi",
+  "status": "paid",
+  "transactionId": "TXN17778162583111038",
+  "gatewayCode": "00",
+  "details": {
+    "upiId": "demo@ybl",
+    "processedAt": {
+      "$date": "2026-05-03T13:50:58.311Z"
+    }
+  },
+  "failureReason": null,
+  "createdAt": {
+    "$date": "2026-05-03T13:50:58.315Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T13:50:58.315Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,886 @@
+[{
+  "_id": {
+    "$oid": "69ea44792cca052e59d62fe2"
+  },
+  "orderId": "ORD-1776960633667",
+  "userId": "1776697862388",
+  "userName": "Test User",
+  "userPhone": "9999900000",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea44792cca052e59d62fe3"
+      }
+    }
+  ],
+  "totalPrice": 20,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "rejected",
+  "estimatedMinutes": 16,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69ea44792cca052e59d62fe4"
+      },
+      "updatedAt": {
+        "$date": "2026-04-23T16:10:33.704Z"
+      }
+    },
+    {
+      "status": "rejected",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:20.625Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73780b4422d06ca47a48"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-23T16:10:33.739Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T13:43:20.626Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69ea458e2cca052e59d62ff8"
+  },
+  "orderId": "ORD-1776960910514",
+  "userId": "69ea451b2cca052e59d62ff2",
+  "userName": "Test User",
+  "userPhone": "9999900000",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea458e2cca052e59d62ff9"
+      }
+    }
+  ],
+  "totalPrice": 20,
+  "note": "",
+  "paymentMethod": "card",
+  "paymentStatus": "paid",
+  "status": "preparing",
+  "estimatedMinutes": 12,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69ea458e2cca052e59d62ffa"
+      },
+      "updatedAt": {
+        "$date": "2026-04-23T16:15:10.520Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:16.364Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73740b4422d06ca47a3d"
+      }
+    },
+    {
+      "status": "preparing",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:17.605Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73750b4422d06ca47a43"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-23T16:15:10.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T13:43:17.607Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "69ea46652cca052e59d63006"
+  },
+  "orderId": "ORD-1776961125238",
+  "userId": "69ea451b2cca052e59d62ff2",
+  "userName": "Test User",
+  "userPhone": "9999900000",
+  "vendorId": 4,
+  "vendorName": "Biryani Baaz",
+  "items": [
+    {
+      "item": "Mutton Biryani (full)",
+      "price": 250,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea46652cca052e59d63007"
+      }
+    },
+    {
+      "item": "Chicken Biryani (full)",
+      "price": 180,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea46652cca052e59d63008"
+      }
+    }
+  ],
+  "totalPrice": 430,
+  "note": "",
+  "paymentMethod": "cash",
+  "paymentStatus": "pending_collection",
+  "status": "pending",
+  "estimatedMinutes": 17,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69ea46652cca052e59d63009"
+      },
+      "updatedAt": {
+        "$date": "2026-04-23T16:18:45.241Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-23T16:18:45.245Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T16:18:45.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea48122cca052e59d63025"
+  },
+  "orderId": "ORD-1776961554634",
+  "userId": "69ea451b2cca052e59d62ff2",
+  "userName": "Test User",
+  "userPhone": "9999900000",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea48122cca052e59d63026"
+      }
+    },
+    {
+      "item": "Misal Pav (full)",
+      "price": 70,
+      "qty": 2,
+      "_id": {
+        "$oid": "69ea48122cca052e59d63027"
+      }
+    },
+    {
+      "item": "Batata Bhaji Pav",
+      "price": 25,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea48122cca052e59d63028"
+      }
+    }
+  ],
+  "totalPrice": 185,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "rejected",
+  "estimatedMinutes": 15,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69ea48122cca052e59d63029"
+      },
+      "updatedAt": {
+        "$date": "2026-04-23T16:25:54.637Z"
+      }
+    },
+    {
+      "status": "rejected",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:13.356Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73710b4422d06ca47a38"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-23T16:25:54.639Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T13:43:13.358Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69ea57762b5ac3899dfc2c63"
+  },
+  "orderId": "ORD-1776965494579",
+  "userId": "local_1776965448169",
+  "userName": "s",
+  "userPhone": "7655311180",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea57762b5ac3899dfc2c64"
+      }
+    },
+    {
+      "item": "Misal Pav (full)",
+      "price": 70,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea57762b5ac3899dfc2c65"
+      }
+    },
+    {
+      "item": "Batata Bhaji Pav",
+      "price": 25,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ea57762b5ac3899dfc2c66"
+      }
+    }
+  ],
+  "totalPrice": 115,
+  "note": "",
+  "paymentMethod": "cash",
+  "paymentStatus": "pending_collection",
+  "status": "ready",
+  "estimatedMinutes": 13,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69ea57762b5ac3899dfc2c67"
+      },
+      "updatedAt": {
+        "$date": "2026-04-23T17:31:34.591Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-04-24T13:42:58.882Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73620b4422d06ca47a04"
+      }
+    },
+    {
+      "status": "preparing",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:01.626Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73650b4422d06ca47a0c"
+      }
+    },
+    {
+      "status": "ready",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:35.674Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb73870b4422d06ca47a9f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-23T17:31:34.606Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T13:43:35.678Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "69eb73290b4422d06ca47872"
+  },
+  "orderId": "ORD-1777038121472",
+  "userId": "local_1777038095657",
+  "userName": "s",
+  "userPhone": "9822400663",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb73290b4422d06ca47873"
+      }
+    },
+    {
+      "item": "Misal Pav (full)",
+      "price": 70,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb73290b4422d06ca47874"
+      }
+    },
+    {
+      "item": "Batata Bhaji Pav",
+      "price": 25,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb73290b4422d06ca47875"
+      }
+    },
+    {
+      "item": "Dry Garlic Chutney",
+      "price": 5,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb73290b4422d06ca47876"
+      }
+    }
+  ],
+  "totalPrice": 120,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "ready",
+  "estimatedMinutes": 18,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69eb73290b4422d06ca47877"
+      },
+      "updatedAt": {
+        "$date": "2026-04-24T13:42:01.487Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:08.226Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb736c0b4422d06ca47a28"
+      }
+    },
+    {
+      "status": "preparing",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:10.167Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb736e0b4422d06ca47a31"
+      }
+    },
+    {
+      "status": "ready",
+      "updatedAt": {
+        "$date": "2026-04-24T13:43:39.252Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb738b0b4422d06ca47aa9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-24T13:42:01.509Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T13:43:39.253Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "69eb93750b4422d06ca484dd"
+  },
+  "orderId": "ORD-1777046389878",
+  "userId": "local_1777037135542",
+  "userName": "m",
+  "userPhone": "3333333333",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Vada Pav",
+      "price": 20,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb93750b4422d06ca484de"
+      }
+    },
+    {
+      "item": "Misal Pav (full)",
+      "price": 70,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb93750b4422d06ca484df"
+      }
+    },
+    {
+      "item": "Batata Bhaji Pav",
+      "price": 25,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb93750b4422d06ca484e0"
+      }
+    },
+    {
+      "item": "Dry Garlic Chutney",
+      "price": 5,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eb93750b4422d06ca484e1"
+      }
+    }
+  ],
+  "totalPrice": 120,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "accepted",
+  "estimatedMinutes": 14,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69eb93750b4422d06ca484e2"
+      },
+      "updatedAt": {
+        "$date": "2026-04-24T15:59:49.882Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-04-24T16:00:31.803Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eb939f0b4422d06ca4865b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-24T15:59:49.885Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T16:00:31.807Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69ecaffe694543673c823017"
+  },
+  "orderId": "ORD-1777119230081",
+  "userId": "local_1777119190470",
+  "userName": "a",
+  "userPhone": "9822400663",
+  "vendorId": 6,
+  "vendorName": "Dosa Wale Bhaiya",
+  "items": [
+    {
+      "item": "Plain Dosa",
+      "price": 50,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ecaffe694543673c823018"
+      }
+    },
+    {
+      "item": "Masala Dosa",
+      "price": 70,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ecaffe694543673c823019"
+      }
+    },
+    {
+      "item": "Uttapam",
+      "price": 65,
+      "qty": 1,
+      "_id": {
+        "$oid": "69ecaffe694543673c82301a"
+      }
+    }
+  ],
+  "totalPrice": 185,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "pending",
+  "estimatedMinutes": 16,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69ecaffe694543673c82301b"
+      },
+      "updatedAt": {
+        "$date": "2026-04-25T12:13:50.087Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-25T12:13:50.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-25T12:13:52.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eda20e10900de61f84646a"
+  },
+  "orderId": "ORD-1777181198629",
+  "userId": "69ed9fe510900de61f846406",
+  "userName": "Raj",
+  "userPhone": "9999999852",
+  "vendorId": 3,
+  "vendorName": "Chai Pe Charcha",
+  "items": [
+    {
+      "item": "Cutting Chai",
+      "price": 10,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eda20e10900de61f84646b"
+      }
+    },
+    {
+      "item": "Masala Chai",
+      "price": 15,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eda20e10900de61f84646c"
+      }
+    }
+  ],
+  "totalPrice": 25,
+  "note": "",
+  "paymentMethod": "cash",
+  "paymentStatus": "pending_collection",
+  "status": "ready",
+  "estimatedMinutes": 18,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69eda20e10900de61f84646d"
+      },
+      "updatedAt": {
+        "$date": "2026-04-26T05:26:38.638Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-04-26T05:27:48.040Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eda25410900de61f846565"
+      }
+    },
+    {
+      "status": "preparing",
+      "updatedAt": {
+        "$date": "2026-04-26T05:27:50.299Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eda25610900de61f84656c"
+      }
+    },
+    {
+      "status": "ready",
+      "updatedAt": {
+        "$date": "2026-04-26T05:27:54.735Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eda25a10900de61f846574"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-26T05:26:38.648Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:27:54.741Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "69eda57710900de61f8468c7"
+  },
+  "orderId": "ORD-1777182071993",
+  "userId": "69eda3ab10900de61f8467bc",
+  "userName": "aniruddha kale",
+  "userPhone": "9766908508",
+  "vendorId": 2,
+  "vendorName": "Sharma Ji Chaat Corner",
+  "items": [
+    {
+      "item": "Sev Puri",
+      "price": 40,
+      "qty": 2,
+      "_id": {
+        "$oid": "69eda57710900de61f8468c8"
+      }
+    },
+    {
+      "item": "Bhel Puri",
+      "price": 35,
+      "qty": 4,
+      "_id": {
+        "$oid": "69eda57710900de61f8468c9"
+      }
+    },
+    {
+      "item": "Dahi Puri",
+      "price": 50,
+      "qty": 3,
+      "_id": {
+        "$oid": "69eda57710900de61f8468ca"
+      }
+    }
+  ],
+  "totalPrice": 370,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "ready",
+  "estimatedMinutes": 14,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69eda57710900de61f8468cb"
+      },
+      "updatedAt": {
+        "$date": "2026-04-26T05:41:11.996Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-04-26T05:42:14.316Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eda5b610900de61f846954"
+      }
+    },
+    {
+      "status": "preparing",
+      "updatedAt": {
+        "$date": "2026-04-26T05:42:19.646Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eda5bb10900de61f84695c"
+      }
+    },
+    {
+      "status": "ready",
+      "updatedAt": {
+        "$date": "2026-04-26T05:42:25.863Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69eda5c110900de61f846965"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-26T05:41:12.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:42:25.866Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "69eda68110900de61f846973"
+  },
+  "orderId": "ORD-1777182337373",
+  "userId": "69eda60710900de61f846971",
+  "userName": "Rishi",
+  "userPhone": "9313526152",
+  "vendorId": 1,
+  "vendorName": "Raju Bhaiya Vada Pav",
+  "items": [
+    {
+      "item": "Batata Bhaji Pav",
+      "price": 25,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eda68110900de61f846974"
+      }
+    },
+    {
+      "item": "Misal Pav (full)",
+      "price": 70,
+      "qty": 1,
+      "_id": {
+        "$oid": "69eda68110900de61f846975"
+      }
+    }
+  ],
+  "totalPrice": 95,
+  "note": "",
+  "paymentMethod": "card",
+  "paymentStatus": "paid",
+  "status": "pending",
+  "estimatedMinutes": 15,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69eda68110900de61f846976"
+      },
+      "updatedAt": {
+        "$date": "2026-04-26T05:45:37.375Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-26T05:45:37.378Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:45:39.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f752c0256bb953ac86a887"
+  },
+  "orderId": "ORD-1777816256092",
+  "userId": "69f75158256bb953ac86a885",
+  "userName": "manish",
+  "userPhone": "9522400663",
+  "vendorId": 3,
+  "vendorName": "Chai Pe Charcha",
+  "items": [
+    {
+      "item": "Cold Coffee",
+      "price": 40,
+      "qty": 1,
+      "_id": {
+        "$oid": "69f752c0256bb953ac86a888"
+      }
+    },
+    {
+      "item": "Biscuit (packet)",
+      "price": 10,
+      "qty": 1,
+      "_id": {
+        "$oid": "69f752c0256bb953ac86a889"
+      }
+    }
+  ],
+  "totalPrice": 50,
+  "note": "",
+  "paymentMethod": "upi",
+  "paymentStatus": "paid",
+  "status": "preparing",
+  "estimatedMinutes": 10,
+  "statusHistory": [
+    {
+      "status": "pending",
+      "note": "Order placed",
+      "_id": {
+        "$oid": "69f752c0256bb953ac86a88a"
+      },
+      "updatedAt": {
+        "$date": "2026-05-03T13:50:56.106Z"
+      }
+    },
+    {
+      "status": "accepted",
+      "updatedAt": {
+        "$date": "2026-05-03T13:54:37.090Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69f7539d256bb953ac86aaa0"
+      }
+    },
+    {
+      "status": "preparing",
+      "updatedAt": {
+        "$date": "2026-05-03T13:54:39.267Z"
+      },
+      "note": "",
+      "_id": {
+        "$oid": "69f7539f256bb953ac86aaa7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-05-03T13:50:56.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T13:54:39.270Z"
+  },
+  "__v": 2
+}]

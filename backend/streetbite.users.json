@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "69ea451b2cca052e59d62ff2"
+  },
+  "mobile": "9999900000",
+  "name": "Test User",
+  "address": "Kothrud, Pune",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-04-23T16:13:15.716Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-23T16:13:15.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ecaf27ffba31f4d7bf7593"
+  },
+  "mobile": "9999999999",
+  "name": "manish",
+  "address": "shivane",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-04-25T12:10:15.092Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-25T12:10:15.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ed9fe510900de61f846406"
+  },
+  "mobile": "9999999852",
+  "name": "Raj",
+  "address": "shivane",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-04-26T05:17:25.076Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:17:25.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eda3ab10900de61f8467bc"
+  },
+  "mobile": "9766908508",
+  "name": "aniruddha kale",
+  "address": "Kothrud",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-04-26T05:33:31.205Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:33:31.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69eda60710900de61f846971"
+  },
+  "mobile": "9313526152",
+  "name": "Rishi",
+  "address": "Kothrud",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-04-26T05:43:35.208Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T05:43:35.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ee448dd48da3b6dc79458c"
+  },
+  "mobile": "9822400663",
+  "name": "sahil",
+  "address": "Kothrud",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-04-26T16:59:57.640Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T16:59:57.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f75158256bb953ac86a885"
+  },
+  "mobile": "9522400663",
+  "name": "manish",
+  "address": "shivane",
+  "avatar": "",
+  "totalOrders": 0,
+  "createdAt": {
+    "$date": "2026-05-03T13:44:56.278Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T13:44:56.301Z"
+  },
+  "__v": 0
+}]
